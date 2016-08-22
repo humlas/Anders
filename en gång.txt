@@ -1,5 +1,9 @@
 Detr var en gång en fii
 
 
+<<<<<<< HEAD
 
 Ännu en ändring
+=======
+redigerad i maps2
+>>>>>>> maps
