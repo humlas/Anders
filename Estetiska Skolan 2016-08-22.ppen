@@ -1,0 +1,193 @@
+﻿<course-scribe-event>
+  <event id="1">
+    <title>Estetiska Skolan 2016-08-22</title>
+    <map kind="OCAD" scale="15000" ignore-missing-fonts="false">Ingestrand 2015-08-04.ocd</map>
+    <all-controls print-scale="10000" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-104.777336" top="39.9713745" right="83.69067" bottom="-90.5846252" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <numbering start="31" disallow-invertible="true" />
+    <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
+    <course-appearance control-circle-size-ratio="1.33333337" line-width-ratio="1.28571427" number-size-ratio="1.5" auto-leg-gap-size="3.5" blend-purple="true" />
+    <descriptions lang="sv" color="black" />
+    <ocad overprint-colors="false" />
+  </event>
+  <control id="31" kind="normal">
+    <code>66</code>
+    <location x="-16.7058582" y="-26.59958" />
+    <description box="D" iof-2004-ref="3.7" />
+    <description box="G" iof-2004-ref="11.1N" />
+    <gaps scale="10000">11111111111111111110000000011111</gaps>
+    <circle-gaps scale="10000">59.59474:146.3126</circle-gaps>
+  </control>
+  <control id="30" kind="normal">
+    <code>7</code>
+    <location x="-11.3650742" y="-19.9361973" />
+    <description box="D" iof-2004-ref="1.12" />
+  </control>
+  <control id="29" kind="normal">
+    <code>43</code>
+    <location x="2.58722258" y="-10.1363688" />
+    <description box="D" iof-2004-ref="3.7" />
+    <description box="G" iof-2004-ref="11.2N" />
+  </control>
+  <control id="28" kind="normal">
+    <code>11</code>
+    <location x="13.3836422" y="-24.2547646" />
+    <description box="D" iof-2004-ref="2.4" />
+    <description box="G" iof-2004-ref="11.1S" />
+    <gaps scale="10000">11111111111111111111110000011111</gaps>
+    <circle-gaps scale="10000">53.56775:110.5473</circle-gaps>
+  </control>
+  <control id="27" kind="normal">
+    <code>5</code>
+    <location x="33.3154945" y="-20.93279" />
+    <description box="C" iof-2004-ref="0.1N" />
+    <description box="D" iof-2004-ref="2.4" />
+    <description box="E" iof-2004-ref="2.4" />
+    <description box="G" iof-2004-ref="11.15" />
+    <gaps scale="10000">11111111111111001111111111111001</gaps>
+    <circle-gaps scale="10000">8.96324348:38.96324,174.786987:204.786987</circle-gaps>
+  </control>
+  <control id="26" kind="normal">
+    <code>25</code>
+    <location x="31.6545048" y="-7.977084" />
+    <description box="D" iof-2004-ref="1.9" />
+    <description box="G" iof-2004-ref="11.3S" />
+    <gaps scale="10000">00111111111111111111110001111110</gaps>
+    <circle-gaps scale="10000">-18.70001:11.29999,76.99484:106.994843</circle-gaps>
+  </control>
+  <control id="25" kind="normal">
+    <code>89</code>
+    <location x="22.685173" y="-8.558431" />
+    <description box="D" iof-2004-ref="2.4" />
+    <description box="G" iof-2004-ref="11.1NE" />
+    <gaps scale="10000">00111111111110011111111111100110</gaps>
+    <circle-gaps scale="10000">-18.9544621:11.045537,28.5393944:58.5393944,186.610168:216.809631</circle-gaps>
+  </control>
+  <control id="24" kind="normal">
+    <code>33</code>
+    <location x="-2.14659238" y="-5.07035542" />
+    <description box="D" iof-2004-ref="3.7" />
+    <description box="G" iof-2004-ref="11.3S" />
+  </control>
+  <control id="23" kind="normal">
+    <code>2</code>
+    <location x="-0.900851548" y="1.98884332" />
+    <description box="D" iof-2004-ref="2.4" />
+    <description box="G" iof-2004-ref="11.1S" />
+    <gaps scale="10000">11110011111111110011111111111111</gaps>
+    <circle-gaps scale="10000">154.390564:184.390564,287.598816:317.598816</circle-gaps>
+  </control>
+  <control id="22" kind="normal" all-controls-code-angle="56.55883">
+    <code>17</code>
+    <location x="-14.68705" y="0.161756724" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+    <gaps scale="10000">11100011111111111111000011110001</gaps>
+    <circle-gaps scale="10000">15.9670525:45.9670525,90.4425354:132.427032,294.787476:324.787476</circle-gaps>
+  </control>
+  <control id="20" kind="normal">
+    <code>56</code>
+    <location x="-29.9681377" y="-18.5243568" />
+    <description box="C" iof-2004-ref="0.1E" />
+    <description box="D" iof-2004-ref="2.4" />
+    <description box="G" iof-2004-ref="11.1N" />
+  </control>
+  <control id="19" kind="finish">
+    <location x="-26.9783611" y="-31.8953114" />
+    <description box="all" iof-2004-ref="14.3" />
+  </control>
+  <control id="18" kind="start">
+    <location x="-26.9783611" y="-31.9783611" />
+  </control>
+  <control id="21" kind="normal" all-controls-code-angle="140.951721">
+    <code>4</code>
+    <location x="-31.3799782" y="-4.90425634" />
+    <description box="D" iof-2004-ref="5.13" />
+    <description box="G" iof-2004-ref="11.1S" />
+    <gaps scale="10000">00000011111100111111111111111111</gaps>
+    <circle-gaps scale="10000">199.819824:229.819824,290.736:357.1687</circle-gaps>
+  </control>
+  <course id="2" kind="normal" order="1">
+    <name>Estetiska Skolan 2016-08-22</name>
+    <labels label-kind="sequence" />
+    <first course-control="15" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-104.777336" top="39.9713745" right="83.69067" bottom="-90.5846252" page-width="827" page-height="1169" page-margins="28" page-landscape="true" />
+    <options print-scale="10000" description-kind="symbols" />
+  </course>
+  <course-control id="28" control="31">
+    <next course-control="16" />
+  </course-control>
+  <course-control id="15" control="18">
+    <next course-control="17" />
+  </course-control>
+  <course-control id="27" control="30">
+    <next course-control="28" />
+  </course-control>
+  <course-control id="26" control="29">
+    <next course-control="27" />
+    <number-location x="0.4950502" y="-7.0704565" />
+  </course-control>
+  <course-control id="25" control="28">
+    <next course-control="26" />
+  </course-control>
+  <course-control id="24" control="27">
+    <next course-control="25" />
+  </course-control>
+  <course-control id="23" control="26">
+    <next course-control="24" />
+  </course-control>
+  <course-control id="22" control="25">
+    <next course-control="23" />
+  </course-control>
+  <course-control id="21" control="24">
+    <next course-control="22" />
+    <number-location x="-3.9688108" y="-3.83171082" />
+  </course-control>
+  <course-control id="20" control="23">
+    <next course-control="21" />
+    <number-location x="3.491266" y="4.863664" />
+  </course-control>
+  <course-control id="19" control="22">
+    <next course-control="20" />
+    <number-location x="-2.431528" y="-4.861143" />
+  </course-control>
+  <course-control id="17" control="20">
+    <next course-control="18" />
+  </course-control>
+  <course-control id="16" control="19" />
+  <course-control id="18" control="21">
+    <next course-control="19" />
+  </course-control>
+  <leg id="2" start-control="18" end-control="20">
+    <gaps>
+      <gap start="8.467226" length="1.999999" />
+    </gaps>
+  </leg>
+  <leg id="3" start-control="22" end-control="23">
+    <gaps>
+      <gap start="6.56151056" length="2.00000048" />
+    </gaps>
+  </leg>
+  <leg id="4" start-control="25" end-control="26">
+    <gaps>
+      <gap start="2.16449976" length="1.999999" />
+    </gaps>
+  </leg>
+  <leg id="5" start-control="27" end-control="28">
+    <gaps>
+      <gap start="1.85443234" length="2" />
+    </gaps>
+  </leg>
+  <leg id="6" start-control="24" end-control="25">
+    <gaps>
+      <gap start="2.33508277" length="6.55659" />
+    </gaps>
+  </leg>
+  <special-object id="1" kind="descriptions">
+    <location x="47.6189842" y="6.816986" />
+    <location x="50.9158821" y="6.816986" />
+    <courses>
+      <course course="2" />
+    </courses>
+  </special-object>
+</course-scribe-event>
